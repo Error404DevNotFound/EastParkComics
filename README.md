@@ -4,5 +4,5 @@
 
 # This should only be used by those who are a part of the club and nobody else.
 
-# Create by ERROR404DevNotFound
+# Create by Error404DevNotFound
 
