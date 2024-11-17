@@ -95,14 +95,6 @@ body{
 
 
 
-
-
-
-
-
-
-
-
 /* Start of Styles for the footer content*/
 .global-footer
 {
@@ -156,4 +148,9 @@ width:33%;
 .creator-text h2
 {
     margin-top: 0;
+}
+
+.team-profile img{
+    width:30%;
+    height: 150px;
 }
