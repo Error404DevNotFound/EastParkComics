@@ -23,7 +23,6 @@ body{
     justify-content: center;
     height:50px;
     align-items: center;
-    font-family: fantasy;
 
 }
 
@@ -110,7 +109,6 @@ body{
     text-decoration: none;
     margin-right: 20px;
     color:white;
-    font-family: fantasy;
 }
 
 .footer-links a:last-child{

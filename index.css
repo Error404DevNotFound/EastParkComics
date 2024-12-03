@@ -23,7 +23,6 @@ body{
     justify-content: center;
     height:5%;
     align-items: center;
-    font-family: fantasy;
 
 }
 
@@ -69,7 +68,6 @@ body{
 }
 
 .hero-text{
-    font-family: fantasy;
     font-size: 2.3em;
     margin-left: 5%;
     margin-bottom: 10%;
@@ -107,7 +105,6 @@ body{
 .text-container
 {
     display: flex;
-    font-family: fantasy;
     font-size: 24px;
     margin: 0 5% 5% 5%;
     width: 45.5%;
@@ -141,7 +138,6 @@ body{
     text-decoration: none;
     margin-right: 20px;
     color:white;
-    font-family: fantasy;
 }
 
 .footer-links a:last-child{
@@ -210,11 +206,6 @@ width:33%;
         text-align: center;
         font-size: 1.75em;
         margin-bottom: 0%;
-    }
-
-    .company-logo img
-    {
-        width:27%;
     }
     .footer-logo img
     {
